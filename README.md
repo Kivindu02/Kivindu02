@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kivindu</h1>
-<h3 align="center">🤖 AI/ML Enthusiast | Exploring Scalable Systems & Cloud-Native Technologies</h3>
+<h1 align="center">Hi 👋, I'm Kivindu Manusha</h1>
+<h3 align="center">AI/ML Enthusiast | Exploring Scalable Systems & Cloud-Native Technologies</h3>
 
 - 🔭 I’m currently working on **smart-rental-platform**
 
