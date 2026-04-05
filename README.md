@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java,Python & Machine Learning**
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/kivindu-rajamanukula-6802a5339/)
 
 - ⚡ Fun fact **I enjoy late-night vibes and good music 🎧**
 
