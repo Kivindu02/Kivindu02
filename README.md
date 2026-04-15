@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   <a href="https://facebook.com/kivindu rajamanukula" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="35"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kivindu rajamanukula" height="30" width="40" />
   </a>
   <a href="https://instagram.com/kivindurajamanukula" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
