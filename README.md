@@ -17,15 +17,12 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left" style="white-space: nowrap;">
-  <a href="https://linkedin.com/in/kivindu-rajamanukula-6802a5339/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-  </a>
-  <a href="https://facebook.com/kivindu rajamanukula" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kivindu rajamanukula" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/kivindurajamanukula" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
-  </a>
+  <a href="https://linkedin.com/in/kivindu-rajamanukula-6802a5339/" target="_blank" style="text-decoration: none; display: inline-block;" >
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/></a>
+  <a href="https://facebook.com/kivindu rajamanukula" target="_blank" style="text-decoration: none; display: inline-block;" >
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40"/></a>
+  <a href="https://instagram.com/kivindurajamanukula" target="_blank" style="text-decoration: none; display: inline-block;" >
+    <img src="https://skillicons.dev/icons?i=instagram" height="35"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
