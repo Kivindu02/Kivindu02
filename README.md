@@ -12,6 +12,8 @@
 
 - 📫 How to reach me [**LinkedIn**](https://www.linkedin.com/in/kivindu-rajamanukula-6802a5339/)
 
+- 🚀 **Explore My Portfolio:** [Visit Portfolio →](https://kivindu02.github.io/my-portfolio/)
+
 - ⚡ Fun fact **I enjoy late-night vibes and good music 🎧**
 
 <h3 align="left">Connect with me:</h3>
